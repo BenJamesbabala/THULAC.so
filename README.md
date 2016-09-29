@@ -83,7 +83,7 @@ THULAC（THU Lexical Analyzer for Chinese）由清华大学自然语言处理与
 
 
 ###2.获取模型
-获取已经训练好的THULAC模型，请登录[thulac.thunlp.org](thulac.thunlp.org)网站填写个人信息进行下载。
+获取已经训练好的THULAC模型，请登录[thulac.thunlp.org](http://thulac.thunlp.org)网站填写个人信息进行下载。
 
 ###3.与C++版和python版性能对比
 
